@@ -1,6 +1,8 @@
+// holy crap this js consoles a lot
 /*!
 	VCO
 */
+
 
 (function (root) {
 	root.VCO = {
@@ -31,7 +33,7 @@ VCO.Bind = function (/*Function*/ fn, /*Object*/ obj) /*-> Object*/ {
 trace = function( msg ) {
 	if (VCO.debug) {
 		if (window.console) {
-			console.log(msg);
+			// console.log(msg);
 		} else if ( typeof( jsTrace ) != 'undefined' ) {
 			jsTrace.send( msg );
 		} else {
@@ -8819,8 +8821,8 @@ L.DomUtil.TRANSITION_END =
  */
 
 L.LatLng = function (lat, lng, alt) { // (Number, Number, Number)
-  console.log(lat);
-  console.log(lng);
+  // console.log(lat);
+  // console.log(lng);
 	lat = parseFloat(lat);
 	lng = parseFloat(lng);
 
@@ -14978,7 +14980,7 @@ L.TileLayer.Zoomify = L.TileLayer.extend({
 		if (gridSize) {
 			return (tilePoint.x >= 0 && tilePoint.x < gridSize.x && tilePoint.y >= 0 && tilePoint.y < gridSize.y);
 		} else {
-			console.log("_tileShouldBeLoaded: No gridSize for " + this._map.getZoom());
+			// console.log("_tileShouldBeLoaded: No gridSize for " + this._map.getZoom());
 			return false;
 		}
 	},
@@ -16638,7 +16640,7 @@ VCO.Map.Leaflet = VCO.Map.extend({
 			case 'mapbox':
 				var mapbox_name = _map_type_arr[1] || 'nuknightlab.hif6ioi4';
 				_options.subdomains 	= 'abcd';
-				_options.attribution 	= _attribution_knightlab + "<div class='mapbox-maplogo'></div><a href='https://www.mapbox.com/about/maps/' target='_blank'>© Mapbox © OpenStreetMap</a>";
+				_options.attribution 	= _attribution_knightlab + "<div class='mapbox-maplogo'></div><a href='https://www.mapbox.com/about/maps/' target='_blank'>ï¿½ Mapbox ï¿½ OpenStreetMap</a>";
 				_tilelayer = new L.TileLayer("https://{s}.tiles.mapbox.com/v2/" + mapbox_name + "/{z}/{x}/{y}.png", _options);
 				break;
 			case 'stamen':
@@ -16656,7 +16658,7 @@ VCO.Map.Leaflet = VCO.Map.extend({
 				break;
 			case 'osm':
 				_options.subdomains = 'ab';
-				_options.attribution = _attribution_knightlab + "© <a target='_blank' href='http://www.openstreetmap.org'>OpenStreetMap</a> and contributors, under an <a target='_blank' href='http://www.openstreetmap.org/copyright'>open license</a>";
+				_options.attribution = _attribution_knightlab + "ï¿½ <a target='_blank' href='http://www.openstreetmap.org'>OpenStreetMap</a> and contributors, under an <a target='_blank' href='http://www.openstreetmap.org/copyright'>open license</a>";
 				_tilelayer = new L.TileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', _options); 
 				break;
 		    
@@ -17121,7 +17123,7 @@ L.TileLayer.include({
 });
 
 /*	StoryMap
-	Designed and built by Zach Wise at VéritéCo
+	Designed and built by Zach Wise at Vï¿½ritï¿½Co
 
 	This Source Code Form is subject to the terms of the Mozilla Public
 	License, v. 2.0. If a copy of the MPL was not distributed with this
@@ -17612,7 +17614,7 @@ VCO.StoryMap = VCO.Class.extend({
     var self = this;
     // this._map = new VCO.Map.Leaflet(this._el.map, this.data, this.options);
     this._map.updateData(this.data);
-    console.log(this.data);
+    // console.log(this.data);
     this.map = this._map._map; // For access to Leaflet Map.
 		this._map.on('loaded', this._onMapLoaded, this);
     this._storyslider = new VCO.StorySlider(this._el.storyslider, this.data, this.options);
