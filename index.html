@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mapping the Midwest</title>
+    <link rel="stylesheet" href="mm.css">
+
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://digcoll.newberry.org/site/files/nl-dig.ico"/>
+    <link rel="stylesheet" href="https://cdn.knightlab.com/libs/storymapjs/latest/css/storymap.css">
+    <!-- <link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css"> -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- <script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/build/ol.js"></script> -->
+    <!-- <script src="./js/globals.js"></script> -->
+    <!-- <script src="./js/magnify.js"></script> -->
+    <script src="js/storymap.js"></script>
+    <!-- <script src="./data/draw.js"></script> -->
+    <!-- <script src="./js/handle-storymap.jquery.js"></script> -->
+    <!-- <script src="./js/loaddraw.js"></script> -->
+    <!-- <script src="./js/loadlayers.js"></script> -->
+    <script src="data/storyData.js"></script>
+
+
+<body>
+
+<div class="w3-sidebar w3-bar-block w3-collapse w3-card w3-animate-left" id="buttonBox" style="width:200px;">
+    <button class="w3-bar-item w3-button w3-large w3-hide-large" onclick="w3_close()">Close &times;</button>
+</div>
+<div class="w3-main" style="margin-left:200px">
+    <div class="title-bg">
+        <button class="w3-button w3-xlarge w3-hide-large tall-button" onclick="w3_open()">&#9776;</button>
+        <div class="w3-container block">
+            <h1 id="h1title">Mapping the Midwest</h1>
+        </div>
+    </div>
+</div>
+<div class="bottomPanel w3-main" id="mapTarget" style="margin-left:200px">
+    <p>
+        Although regions are often determined by boundaries, consider how networks have influenced the distinct history of the Midwest. Waterways and transportation routes connected the interior to broader trade networks and markets for centuries. More recently, the movement of people and resources shaped the evolution of agricultural, extractive, and tourist industries in the Midwest. Navigate the maps below to explore how networks define the region.
+    </p>
+    <p>
+        The Newberry Library is located on Indigenous homelands. The Potawatomi, Odawa, Sauk, Ojibwe, Illinois, Kickapoo, Miami, and others resided and traded along Lake Michigan's shoreline into the nineteenth century. The Newberry honors and respects Chicago's diverse American Indian community. 
+    </p>
+</div>
+
+<script>
+function w3_open() {
+  document.getElementById("buttonBox").style.display = "block";
+}
+function w3_close() {
+  document.getElementById("buttonBox").style.display = "none";
+}
+const content = [
+    ['draw','Draw the Midwest!'],
+    ['waterways', 'Waterways'],
+    ['agri', 'Agriculture'],
+    ['ei', 'Extractive Industry'],
+    ['infra', 'Infrastructure'],
+    ['wpar66','WPA Route 66'],
+    ['dp','Dialect Patterns']
+]
+const sourceData = {
+    draw: "secret code we want returned",
+    waterways: "other code"
+}
+$.each(content, function(index, value){
+    $('#buttonBox').append('<a class="w3-bar-item w3-button" href="#" onclick="changeMap(\'' + value[0] + '\', this)">' + value[1] + '</a>')
+});
+
+var storymap_options = {};
+function changeMap(data, e){
+    $('.w3-sidebar > .w3-button').removeClass('active');
+    $(e).addClass('active');
+    var sourceInterpretation = storyData[data];
+    // console.log(userContent);
+    // $('#mapTarget').empty().append('<div id="mapContent">' + JSON.stringify(sourceInterpretation) + '</div>');
+    $('#mapTarget').empty();
+    storymap = new VCO.StoryMap('mapTarget', storyData[data], storymap_options);
+    storymap.newData(data);
+}
+window.onresize = function(event) {
+    storymap.updateDisplay(); // this isn't automatic
+}
+
+</script>
+</body>
+</html>
