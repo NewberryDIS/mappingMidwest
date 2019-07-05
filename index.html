@@ -32,7 +32,7 @@
                 Choose a section below and then use arrows to progress through each story map. Click pictures to view them with a magnifying glass; click a second time to open the full image in another tab.
             </p>
             <p class="casual">
-                The Newberry Library is located on Indigenous homelands. The Potawatomi, Odawa, Sauk, Ojibwe, Illinois, Kickapoo, Miami, and others resided and traded along Lake Michigan's shoreline into the nineteenth century. The Newberry honors and respects Chicago's diverse American Indian community. 
+                The Newberry Library is located on Indigenous homelands. The Potawatomi, Odawa, Sauk, Ojibwe, Illinois, Kickapoo, Miami, and others resided and traded along Lake Michigan's shoreline into the nineteenth century. The Newberry honors and respects Chicago's diverse American Indian community.
             </p>
             <div class="bigButtons" id="bigButtonTarget"></div>
         </section>
@@ -49,15 +49,32 @@
         ]
         var fresh = true;
         $.each(content, function(index, value){
-            $('#buttonBox').append('<button class="navButton" onclick="changeMap(\'' + value[0] + '\', this)">' + value[1] + '</button>');
+            $('#buttonBox').append('<button id="' + value[0] + '" class="navButton" onclick="changeMap(\'' + value[0] + '\', this)">' + value[1] + '</button>');
             (fresh ? $('#bigButtonTarget').append('<button style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/' + value[2] + '); background-position: '+ (value[3] ? value[3] : 'center')+ '; background-size: '+ (value[4] ? value[4] : '200%')+ ';" class="bigButton" onclick="changeMap(\'' + value[0] + '\', this)">' + value[1] + '</button>') : '');
         });
+
+// strikethrough notes for jw
+var strikethrus = ['draw', 'wpar66','dp']
+$('#buttonBox button').each(function(i,e){
+    console.log($.inArray($(e).attr('id'), strikethrus ));
+   if ($.inArray($(e).attr('id'), strikethrus ) != -1){
+        $(e).addClass('strike');
+        $( e ).hover(function() {
+            ($(e).attr('id') === 'draw'
+                ? $(this).append('<div id="test" class="strike-tt" >Map still needs a little work</div>') 
+                : $(this).append('<div id="test" class="strike-tt" >No map</div>')
+            )
+        }, function() {
+            $( '#test' ).remove();
+        });
+    }
+});
         function toggleSidebar() {
             $('#buttonBox').toggle();
             $('#showButton').toggle();
             $('#mainContainer').toggleClass('bigLeft').toggleClass('smLeft')
         }
-        var storymap_options = {};        
+        var storymap_options = {};
         function changeMap(data, e){
             fresh = false;
             toggleSidebar();

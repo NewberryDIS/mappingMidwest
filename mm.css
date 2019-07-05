@@ -1,3 +1,17 @@
+.strike {
+    text-decoration: line-through;
+}
+
+.strike-tt {
+    position: absolute; 
+    right: -50%; 
+    top: -50%; 
+    background: #fff;
+    border: 1px solid black;
+    padding: 5px;
+    /* z-index: 200;  */
+    border-radius: 5px;
+}
 body {
     height: 100vh;
     background-image: url(images/ic_map_6f_8b_01_o2_banner.jpg);
@@ -11,11 +25,12 @@ body {
 }
 .sidebar {
     position: fixed;
-    overflow: auto;
+    /* overflow: auto; */
     height: 100%;
     background: rgba(255,255,255,.75);
 }
 .sidebar, .navButton {
+    position: relative;
     width: 200px;
 }
 .navButton, .lilButton {
@@ -69,7 +84,7 @@ body {
     overflow: auto;
     padding: 0 0 0 20px;
 }
-.bigButtons  { 
+.bigButtons  {
     display: flex;
     flex-flow: row wrap;
     margin-left: -8px; /* Adjustment for the gutter */
@@ -77,7 +92,7 @@ body {
 }
 
 .bigButton {
-    
+
     flex: auto;
     height: 150px;
     min-width: 300px;
