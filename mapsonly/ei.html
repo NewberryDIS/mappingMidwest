@@ -1,0 +1,36 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://digcoll.newberry.org/site/files/nl-dig.ico"/>
+    <link rel="stylesheet" href="https://cdn.knightlab.com/libs/storymapjs/latest/css/storymap.css">
+    <script src="data/storyData.js"></script>
+    <script src="js/storymap.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Bitter|Noto+Sans+HK&display=swap" rel="stylesheet">
+<style>
+	#mapTarget {
+		width: 100%;
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+	}
+</style>
+</head>
+<body>
+	<div id="mapTarget"></div>
+	<script>
+        var storymap_options = {};
+        function changeMap(data){
+            storymap = new VCO.StoryMap('mapTarget', data, storymap_options);
+            storymap.newData(data);
+        }
+
+        window.onresize = function(event) {
+            storymap.updateDisplay(); // this isn't automatic
+        }
+	changeMap(storyData.ei);
+</script>
+</body></html>
