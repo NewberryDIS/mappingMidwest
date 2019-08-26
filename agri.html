@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Upland Plains Tribes in the Mid-19th Century</title>
+    <link rel="stylesheet" href="https://cdn.knightlab.com/libs/storymapjs/latest/css/storymap.css">
+  <!-- <link rel="stylesheet" href="./iotmw.css"> -->
+	<link rel="stylesheet" href="./custom.css">
+	<link rel="stylesheet" href="./font.default.css">
+	<script type="text/javascript" src="//cdn.knightlab.com/libs/storymapjs/latest/js/storymap-min.js"></script>
+	<script type="text/javascript" src="//cdn.knightlab.com/libs/storymapjs/latest/js/json2.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="templated.css">
+    <script src="data.js"></script>
+</head>
+<body>
+        <ul class="menu-list hide" id="menuList"></ul>
+        <header style="position: sticky; top: 5px; left: 0; right: 0; z-index: 10;">
+            <div class="newbNavbar">
+                <div class="newbNavbarLeft">
+                    <a href="https://www.newberry.com" class="newberryHome">
+                        <img id="newberryN" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" />
+                    </a>
+                    <a href="digital/" class="newberryDigiHome">
+                        &gt; Digital Newberry
+                    </a>
+                </div>
+                <div id="logo"><a href="index.html" >Mapping the Midwest</a></div>
+                <div class="newbNavbarRight">
+                    <div class="menuButton" onclick="menuClick(this)">
+                        <div class="bar1"></div>
+                        <div class="bar2"></div>
+                        <div class="bar3"></div>
+                    </div>
+                </div>
+            </div>
+    
+        </header>
+	<div id="mapdiv" style="width: 100%; height: calc(100vh - 70px); top: 5px; margin: auto;"></div>
+	
+	<script>
+
+        var storymap_data = 'agriculture.json';
+
+        // certain settings must be passed within a separate options object
+        var storymap_options = {};
+
+        var storymap = new VCO.StoryMap('mapdiv', storymap_data, storymap_options);
+        window.onresize = function(event) {
+            storymap.updateDisplay(); // this isn't automatic
+        }
+
+        function menuClick(x) {
+            x.classList.toggle("change");
+            $('#menuList').toggleClass('hide')
+        }
+        for (n in contentNav['mm']){
+            console.log(n);
+            var arr =  contentNav['mm'][n];
+            $('#menuList').append('<li' + ( window.location.pathname.indexOf(arr[0]) > -1  ? ' class="active"' : '') + '><a href="' + arr[0] + '.html">' + arr[1] + '</a></li>'); 
+        }
+</script>
+  </body>
+</html>
+

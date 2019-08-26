@@ -1,0 +1,352 @@
+{
+    "storymap": {
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "Agriculture",
+                    "subtitle": "",
+                    "text": "Close relationships between railroad companies and the United States government propelled Euro-American settlement of Indigenous lands and a facilitated a transition from subsistence farming to producing commodities for expanding markets in the East and abroad. Less arid than the far West and less dependent on cotton and slavery than the South, the Midwest proved crucial in producing crops and meat for growing urban populations in the United States and Europe. Emerging agricultural networks often provided economic benefit to owners of railroads, factories, and packing houses. At the same time, farmers in the Midwest routinely organized to maximize their own benefit and combat corporate power. The impact of industrial agriculture continues to shape the economic and cultural realities of farming into the late twentieth and early twenty-first centuries."
+                },
+                "type": "overview",
+                "location": {
+                    "zoom": ""
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Indigenous Agriculture",
+                    "subtitle": "\"Guarding the Corn Field,\" Watercolor by Seth Eastman, 1853 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=346992\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Well before European arrival on the continent, Indigenous groups in the Midwest farmed corn, squash, and other crops. For example, this painting by Seth Eastman depicts Dakota women discouraging blackbirds from eating a crop of corn by clanging pots and making noise. Agriculture functioned as one part of broader Indigenous foodways that included hunting, gathering, and fishing."
+                },
+                "type": "",
+                "location": {
+                    "lat": 46.4199398,
+                    "line": "true",
+                    "lon": -95.6037468,
+                    "zoom": "6"
+                },
+                "media": {
+                    "url": ".\/images\/NL000378_o2.jpg",
+                    "credit": "Ayer 250.45 E2 1853a",
+                    "caption": "https:\/\/i-share.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=346992"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "The Reaper",
+                    "subtitle": "<i>Valley of the Upper Wabash, Indiana<\/i>, 1838 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=158857\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "The invention of the reaper and other farming implements facilitated the transition from localized, subsistence farming to the mass production of crops for distant markets. In order to succeed in market-driven agriculture, farmers needed to purchase plows and other equipment with their own capital or, more riskily, on credit."
+                },
+                "type": "",
+                "location": {
+                    "lat": 40.8014957,
+                    "line": "true",
+                    "lon": -85.8775998,
+                    "zoom": "7"
+                },
+                "media": {
+                    "url": ".\/images\/graff_1241_opp_pg_170_o2.jpg",
+                    "credit": "Graff 1241",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=158857"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Communication and Education",
+                    "subtitle": "<i>Prairie Farmer<\/i>, 1852 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=161818\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "The market revolution of the nineteenth century coincided with a communication revolution. With the invention of the telegraph, mechanically powered printing technology, and steam-powered transportation on waterways and rail tracks, information could travel more quickly. Farmers in the nineteenth century benefited from increasingly accessible educational and trade journals and periodicals, such as the <i>Prairie Farmer<\/i>, which was \"devoted to western agriculture, horticulture, mechanics and education.\""
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.8781136,
+                    "line": "true",
+                    "lon": -87.6297982,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/case_broadside_069_01_o2.jpg",
+                    "credit": "Case Broadside 69",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=161818"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Commodity Crops",
+                    "subtitle": "<i>North America: Its Agriculture and Climate<\/i>, 1857 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=90534\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "An observer from the United Kingdom created this map in 1857, showing corn and wheat emerging as primary crops in the Midwest. In contrast, the East and South are portrayed as being focused on cotton, sugar cane, and rice with some wheat and less corn."
+                },
+                "type": "",
+                "location": {
+                    "lat": 39.1031,
+                    "line": "true",
+                    "lon": -84.512,
+                    "zoom": "5"
+                },
+                "media": {
+                    "url": ".\/images\/g_81_762_map_o2.jpg",
+                    "credit": "G 81 .762",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=90534"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Railroads Selling Land",
+                    "subtitle": "<i>Choice Farming Lands in Iowa and Nebraska<\/i>, 1871 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=19479\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "After the United State government removed Indigenous people from their lands, by force or treaty, they then sold land to railroad companies at a low price. Railroad companies in turn would then sell land adjacent to the railroad at a profit, marketing specifically to Euro-American settlers."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.9779,
+                    "line": "true",
+                    "lon": -91.6656,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/graff_5369_tp_o2.jpg",
+                    "credit": "Graff 5369",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=19479"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "\"You are Ready for Work\"",
+                    "subtitle": "<i>Choice Farming Lands in Iowa and Nebraska<\/i>, 1871 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=19479\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Advertisements for land in the Midwest emphasized the likelihood of making a profitable living farming, even for people of modest means. Next to a list of costs involved in starting a farm, the pamphlet asserts that \"many, who are now successful and wealthy farmers, commenced with barely capital enough to secure their land, and obtain some kind of <span class=\"link_to_slide\" onClick=\"goToSlide('extractive',14)\">shelter<\/span> for their families.\""
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.9779,
+                    "line": "true",
+                    "lon": -91.6656,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/graff_5369_pg_22_23_o2.jpg",
+                    "credit": "Graff 5369",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=19479"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Map of \"Choice Farming Lands\"",
+                    "subtitle": "<i>Choice Farming Lands in Iowa and Nebraska<\/i>, 1871 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=19479\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "The land sold by the Iowa Railroad Land Company paralleled Prairie Creek running east-west across present-day Iowa. Railroad construction responded to the natural landscape and drove Euro-American settlement with the support of the United States government."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.9779,
+                    "line": "true",
+                    "lon": -91.6656,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/graff_5369_frontis_map_o2.jpg",
+                    "credit": "Graff 5369",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=19479"
+                }
+            },
+            {
+                "date": "1876",
+                "text": {
+                    "headline": "Farmers Organizing",
+                    "subtitle": "\"Pro Rata,\" ca. 1876 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=161816\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Farmers in the Midwest routinely organized against the inconsistent  shipping rates set by railroads, as in this 1876 statement criticizing higher freight rates on \"the weaker, or connecting branches\" as opposed to the lower rates on the \"stronger of main line of the road.\" Not coincidentally, the Midwest became a stronghold of Populism and its challenge to eastern railroad business interests. In this way, the market capitalism and transportation networks that fueled Euro-American settlement in the Midwest in turn motivated a formidable populist challenge."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.0111,
+                    "line": "true",
+                    "lon": -95.8808,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/case_broadside_72_01_o2.jpg",
+                    "credit": "Case Broadside 72",
+                    "caption": "https:\/\/i-share.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=161816"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Flour and Grain Shipments",
+                    "subtitle": "<i>Annual Statement of the Trade and Commerce of Chicago<\/i>, 1870 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=481810\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "As the nineteenth century progressed, the production of goods like flour and grain rapidly increased. The crops farmed in the hinterlands of the Midwest traveled to Chicago across railroad networks and were in turn transported to eastern markets for consumption."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.8781136,
+                    "line": "true",
+                    "lon": -87.6297982,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/case_h_7083_16_pg_36_37_o2.jpg",
+                    "credit": "Case H 7083 .16",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=481810"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Brewing Industry",
+                    "subtitle": "<i>Western Brewer<\/i>, 1877 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=653115\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Other grains like barley fueled a growing brewing industry in the Midwest, particularly in Wisconsin. The consumption of alcohol\u2014often in taverns\u2014played an important role in the cultural networks of urban immigrant communities in the late nineteenth and early twentieth centuries. It also became a target of a temperance movement that culminated in Prohibition."
+                },
+                "type": "",
+                "location": {
+                    "lat": 42.5847425,
+                    "line": "true",
+                    "lon": -87.8211854,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/case_wing_tp500_w47_dec_12_1877_pg_485_o2.jpg",
+                    "credit": "Case Wing folio TP500 .W47",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=653115"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Meatpacking",
+                    "subtitle": "<i>Annual Report of the Packing of the West<\/i> , ca. 1870s | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=481809\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Following similar networks as grains, animals were shipped from rural areas of the Midwest to Chicago, where they were slaughtered and packed for shipment to the East. Railroad investors and meatpacking house owners often gained tremendous wealth from the industry, whereas small farmers and meatpacking laborers often made minimal profits and wages in comparison."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.8781136,
+                    "line": "true",
+                    "lon": -87.6297982,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/h_465_167_pg_22_23_o2.jpg",
+                    "credit": "H 465 .167",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=481809"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Refrigeration",
+                    "subtitle": "Icing Refrigerator Cars in Lincoln, Nebraska, 1948  | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=8877669\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "The rapid growth of the meatpacking industry depended on the development of refrigerated cars that could transport perishable meat across long distances. Here, workers in Lincoln, Nebraska deposit ice into a compartments on top of railcars, allowing for the cold air to sink and cool the products inside."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.8781136,
+                    "line": "true",
+                    "lon": -87.6297982,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/CBQGR991M2_o2.jpg",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Dairy Industry",
+                    "subtitle": "Vedell Dairy, Knoxville, Illinois, 1948 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=8877669\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "The Midwest dairy industry remained highly localized into the early twentieth century, with small farms like Vedell Dairy delivering milk and other dairy products to customers who lived nearby. In the second half of the twentieth century, the dairy industry became increasingly dominated by fewer, larger dairy businesses with the capacity to distribute to broader markets."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.8781136,
+                    "line": "true",
+                    "lon": -87.6297982,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/CBQGR2329_o2.jpg",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "date": "1954",
+                "text": {
+                    "headline": "Images of Farming",
+                    "subtitle": "<i>Farm ABC<\/i>, 1954 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=171547\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "The historic realities of agriculture in the Midwest involve forced Indigenous migration, economic hardships associated with commodity farming, and necessary cooperation to combat powerful business interests. However, images of farming in the twentieth century\u2014like this children's book published in Racine, Wisconsin\u2014often depicted an idyllic identity of farmers as white, self-reliant, and connected to nature."
+                },
+                "type": "",
+                "location": {
+                    "lat": 42.7297221,
+                    "line": "true",
+                    "lon": -87.8878798,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/wing_zp_983_w6_1867_fc_o2.jpg",
+                    "credit": "Wing ZP 983 .W61867",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=171547"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Transition to Industrial Farming",
+                    "subtitle": "<i>Atlas of Clay County, Minnesota<\/i>, 1964 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=828097\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "The growth of large-scale, industrial agriculture in the late twentieth century moved even farther away from imagined ideals of the family farm. The consolidation of farms under corporate entities has utilized economies of scale to increase production and profit."
+                },
+                "type": "",
+                "location": {
+                    "lat": 46.878186,
+                    "line": "true",
+                    "lon": -96.4257589,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/baskes_g4143_c5G46_1964_n4_pic_01_o2.jpg",
+                    "credit": "Baskes folio G4143.C5G46 1964 .N4",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=828097"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Land Conservation",
+                    "subtitle": "<i>Minnesota Peatlands<\/i>, 1978 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=935098\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "At the same time that industrial farming expanded across the Midwest, questions of sustainability challenged the primacy of agricultural output and profit. In contrast to draining the <span class=\"link_to_slide\" onClick=\"goToSlide('waterways',10)\">Black Swamp in Ohio<\/span> in the nineteenth century\u2014an effort that emphasized agricultural development over conserving wetlands\u2014efforts to preserve the peatlands of Minnesota and the broader Great Lakes region has signaled an alternative approach to human interactions with the Midwest landscape."
+                },
+                "type": "",
+                "location": {
+                    "lat": 46.4199398,
+                    "line": "true",
+                    "lon": -95.6037468,
+                    "zoom": "6"
+                },
+                "media": {
+                    "url": ".\/images\/map4F_g4141_h9_1978_m5_01_o2.jpg",
+                    "credit": "map4F G4141.H9 1978 .M5",
+                    "caption": "https:\/\/i-share.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=935098"
+                }
+            },
+            {
+                "text": {
+                    "headline": "End of map",
+                    "text": "Go to next map:<br \/><button onclick=\"$('#layers button[name=extractive]').trigger('click');\" >Extractive Industry<\/button>",
+                    "subtitle": ""
+                },
+                "type": "overview",
+                "date": "",
+                "location": {
+                    "zoom": ""
+                }
+            }
+        ],
+        "map_type": "osm:standard",
+        "language": "en"
+    }
+}

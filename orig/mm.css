@@ -1,0 +1,111 @@
+.strike {
+    text-decoration: line-through;
+}
+
+.strike-tt {
+    position: absolute; 
+    right: -50%; 
+    top: -50%; 
+    background: #fff;
+    border: 1px solid black;
+    padding: 5px;
+    /* z-index: 200;  */
+    border-radius: 5px;
+}
+body {
+    height: 100vh;
+    background-image: url(images/ic_map_6f_8b_01_o2_banner.jpg);
+    background-position: 60% 55%;
+    margin: 0;
+
+    font-family: 'Noto Sans HK', sans-serif;
+}
+.hide {
+    display: none;
+}
+.sidebar {
+    position: fixed;
+    /* overflow: auto; */
+    height: 100%;
+    background: rgba(255,255,255,.75);
+}
+.sidebar, .navButton {
+    position: relative;
+    width: 200px;
+}
+.navButton, .lilButton {
+    border: 0;
+    background: rgba(0,0,0,0);
+}
+.sidebar, #showButton {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.navButton {
+    height: 40px;
+    font-size: 1rem;
+}
+.lilButton {
+    background: rgba(255,255,255,.75);
+    height: 40px;
+    width: 40px;
+}
+.navButton:hover, .lilButton:hover {
+    background: rgba(0,60,136,.5);
+}
+.active {
+    background: rgb(0,60,136);
+    color: white;
+}
+.bigLeft {
+    width: calc(100% - 200px);
+    margin: auto;
+    margin-left: 200px;
+}
+.smLeft {
+    width: 100%;
+    margin: auto;
+    /* margin-left: 50px; */
+}
+.titleText h1 {
+    margin: 0 5rem;
+    padding: 1rem 0;
+    color: white;
+    font-size: 4rem;
+    text-shadow: 1px 1px #444;
+    font-family: 'Bitter', serif;
+    font-weight: 900;
+}
+.bottomPanel {
+    background: rgba(255,255,255,.75);
+    max-height: 85vh;
+    min-height: 85vh;
+    overflow: auto;
+    padding: 0 0 0 20px;
+}
+.bigButtons  {
+    display: flex;
+    flex-flow: row wrap;
+    margin-left: -8px; /* Adjustment for the gutter */
+    width: 100%;
+}
+
+.bigButton {
+
+    flex: auto;
+    height: 150px;
+    min-width: 300px;
+    margin: 0 20px 20px 0; /* Some gutter */
+    color: #fff;
+    font-size: 2rem;
+    text-shadow: 1px 1px #444;
+    font-weight: 900;
+    padding-top: 100px;
+}
+.petite, .casual {
+    font-size: 0.9rem;
+}
+.casual {
+    font-style: italic;
+}
