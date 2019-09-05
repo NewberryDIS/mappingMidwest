@@ -1,0 +1,269 @@
+{
+    "storymap": {
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "Waterways",
+                    "subtitle": "",
+                    "text": "From the Missouri River east to the Ohio River and including the upper Mississippi and the Great Lakes, the waterways of the Midwest facilitated migration and trade from earliest human presence into the present day. Infrastructure construction in the nineteenth and twentieth centuries often attempted to control or circumvent waterways. In the late twentieth century and today, recreation and conservation play significant roles in Midwesterners' relationship to water."
+                },
+                "type": "overview",
+                "location": {
+                    "zoom": ""
+                }
+            },
+            {
+                "date": "1677",
+                "text": {
+                    "headline": "The Great Lakes Region",
+                    "subtitle": "<i>Canada by Sr. de Champlain (Le Canada faict par le Sr de Champlain)<\/i>, 1677 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=933697\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Depicting the eastern Great Lakes region, this 1677 map demonstrates the primacy of waterways for inland travel. It was made by French mapmaker Pierre Duval for Samuel de Champlain, who navigated the waterways of the Midwest and interacted with Indigenous groups and French fur traders living there."
+                },
+                "type": "",
+                "location": {
+                    "lat": "45.062746",
+                    "line": "true",
+                    "lon": "-82.521154",
+                    "zoom": "5"
+                },
+                "media": {
+                    "url": ".\/images\/novacco_4f_65_01_o2.jpg",
+                    "credit": "Novacco 4F 65",
+                    "caption": "https:\/\/i-share.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=933697"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Making Waterway Maps",
+                    "subtitle": "<i>Physical Map of the Highest Land of Western Canada (Carte Physique des Terreins les plus e\u0301leve\u0301s de la Partie Occidentale du Canada)<\/i>, 1754 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=929799\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Focused on the area west of the Great Lakes, this French map also orients itself around waterways as key transportation routes. The linked lakes at the top of the map reflected Indigenous sources that communicated navigation information as series of rivers and lakes."
+                },
+                "type": "",
+                "location": {
+                    "lat": "45.0522",
+                    "line": "true",
+                    "lon": "-82.4846",
+                    "zoom": "6"
+                },
+                "media": {
+                    "url": ".\/images\/graff_460_pg_146_147_map_o2.jpg",
+                    "credit": "Graff 460",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=929799"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Indigenous Water Transportation on the Missouri River",
+                    "subtitle": "Watercolor by Karl Bodmer, ca. 1830s-1840s | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=151392\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Indigenous people traveled and traded along the waterways of the Great Lakes and the Mississippi for centuries before European arrival. Beginning in the seventeenth century, Indigenous groups in the Midwest adapted to a growing fur trade that utilized waterways to transport goods from the interior to both sides of the Atlantic and back."
+                },
+                "type": "",
+                "location": {
+                    "lat": "40.846191",
+                    "line": "true",
+                    "lon": "-95.844412",
+                    "zoom": "6"
+                },
+                "media": {
+                    "url": ".\/images\/ayer_art_bodmer_drawing_1_00013_o2.jpg",
+                    "credit": "Vault Ayer Art Bodmer",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=151392"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Water Transportation in Dubuque, Iowa",
+                    "subtitle": "<i>The Illustrated Mississippi (Das Illustrirte Mississippithal)<\/i>, 1857 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=508279\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "As the United States government removed Indigenous people from their lands in the Midwest by force or treaty in the nineteenth century, water travel facilitated the growth of emerging cities like Dubuque, Iowa."
+                },
+                "type": "",
+                "location": {
+                    "lat": 42.5005583,
+                    "line": "true",
+                    "lon": -90.6645718,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/ayer_160_5_m76_l6_1857_opp_pg_168_o2.jpg",
+                    "credit": "VAULT Ayer 160.5 .M76 L6 1857",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=508279"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Where Railroad Traffic and Lake Transportation Meet",
+                    "subtitle": "Association for the Improvement of the Chicago River, 1896 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=359891\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Early railroads competed with waterways for moving people and goods across the Midwest. In the mid-nineteenth century, Chicago boosters and businessmen secured financing to keep Chicago at the center of a growing network that transported resources from the hinterlands to the city, and on to markets in the East."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.8781136,
+                    "line": "true",
+                    "lon": -87.6297982,
+                    "zoom": "10"
+                },
+                "media": {
+                    "url": ".\/images\/h_69_165_tp_o2.jpg",
+                    "credit": "H 69 .165",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=359891"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Transporting Goods across Railways and Waterways",
+                    "subtitle": "<i>Map of Illinois Central Railroad Company\u2019s Depot Grounds & Buildings<\/i>, 1855 | <a href=\"https:\/\/i-share.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=165939\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "The location of the Illinois Central Railroad depot next to the water and associated plans to straighten the Chicago River demonstrate how Chicagoans shaped the environment to facilitate efficient transportation of goods."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.888342,
+                    "line": "true",
+                    "lon": -87.622323,
+                    "zoom": "13"
+                },
+                "media": {
+                    "url": ".\/images\/Graff 2080 (Vault), Map of Illinois Central Railroad Company's depot grounds and buildings_o2.jpg",
+                    "credit": "VAULT map Graff 2080",
+                    "caption": "https:\/\/i-share.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=165939"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Railroad Development Along the River",
+                    "subtitle": "<i>Map of the Union Pacific Railroad Lands<\/i>, 1870 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=935811\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "The Union Pacific Railroad developed land parallel to the Platte River in what is now Nebraska. As the United States government continued to force migration of Indigenous people off their land in the Midwest, railroad companies like the Union Pacific purchased land at low prices and encouraged European American settlement along the routes."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.4303,
+                    "line": "true",
+                    "lon": -97.3594,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/h_97924_916_pg_16_17_map_01_o2.jpg",
+                    "credit": "H 97924 .916",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=935811"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Draining the Black Swamp",
+                    "subtitle": "<i>An Illustrated Historical Atlas of Lucas and Part of Wood Counties, Ohio<\/i>, 1875 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=125115\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "When glaciers retreated from current-day northwestern Ohio around 14,000 years ago, they left behind an expansive wetland known as the Great Black Swamp. Developing the land for Euro-American settlement required systematic drainage of the swamp in the last half of the nineteenth century. This map of Springfield Township denotes drainage \"ditches\" across the area."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.6197821,
+                    "line": "true",
+                    "lon": -83.7305392,
+                    "zoom": "11"
+                },
+                "media": {
+                    "url": ".\/images\/f_892515_44_pg_67_o2.jpg",
+                    "credit": "oversize F 892515 .44",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=125115"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Draining the Black Swamp",
+                    "subtitle": "<i>An Illustrated Historical Atlas of Lucas and Part of Wood Counties, Ohio<\/i>, 1875 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=125115\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "A drainage ditch appears in the lower left-hand corner of a depiction of Thomas Watt's residence in an illustrated historical atlas of Lucas County, Ohio. Beginning in the late twentieth century, the long-term impact of pollution on water quality in Ohio and the broader Great Lakes regions catalyzed a consideration of pursuing wetland <span class=\"link_to_slide\" onClick=\"goToSlide('agriculture',17)\">restoration<\/span> in the region."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.6197821,
+                    "line": "true",
+                    "lon": -83.7305392,
+                    "zoom": "12"
+                },
+                "media": {
+                    "url": ".\/images\/f_892515_44_pg_84_detail_o2.jpg",
+                    "credit": "oversize F 892515 .44",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=125115"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Water Rights and Recreation",
+                    "subtitle": "<i>Atlas of Clay County, Minnesota<\/i>, 1964 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=828097\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Waterways served as sites of recreational fishing and skiing in the twentieth century and beyond. This county atlas also includes a picture of Ojibwe people harvesting wild rice. Indigenous groups advocated for land and water rights as part of continued ongoing treaty negotiations and resistance to government policies throughout the twentieth century."
+                },
+                "type": "",
+                "location": {
+                    "lat": 47.2144536,
+                    "line": "true",
+                    "lon": -94.2309171,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/baskes_g4143_c5G46_1964_n4_pic_02_o2.jpg",
+                    "credit": "Baskes folio G4143.C5G46 1964 .N4",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=828097"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Wildlife Management and Tourism",
+                    "subtitle": "<i>Atlas of Clay County, Minnesota<\/i>, 1964 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=828097\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "In contrast to nineteenth-century prioritization of <span class=\"link_to_slide\" onClick=\"goToSlide('extractive',13)\">industrial and agricultural development<\/span>, conservation of natural resources assumed growing importance in the later twentieth century. Managing the health of rivers and lakes also benefited tourism in the Great Lakes and upper Mississippi."
+                },
+                "type": "",
+                "location": {
+                    "lat": 47.2144536,
+                    "line": "true",
+                    "lon": -94.2309171,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/baskes_g4143_c5G46_1964_n4_pic_03_o2.jpg",
+                    "credit": "Baskes folio G4143.C5G46 1964 .N4",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=828097"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "#NODAPL",
+                    "subtitle": "Gilbert Kills Pretty Enemy III,  2016 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=964764\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Efforts to protect natural resources continue into the twenty-first century. For example, in 2016 Indigenous people and allies protested the construction of the Dakota Access oil pipeline across the Missouri River near the Standing Rock Indian Reservation in South Dakota."
+                },
+                "type": "",
+                "location": {
+                    "lat": 46.08635,
+                    "line": "true",
+                    "lon": -100.629603,
+                    "zoom": "9"
+                },
+                "media": {
+                    "url": ".\/images\/ayer_broadside_e78_n75_k55_2016_no_03_o2.jpg",
+                    "credit": "Ayer broadside E78.N75 K55 2016",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=964764"
+                }
+            },
+            {
+                "text": {
+                    "headline": "End of map",
+                    "text": "Go to next map:<br \/>\r\n<button id=\"maplayers\" class=\"nonstorymap\" onclick=\"loadLayers();\" name=\"layers\">Infrastructure<\/button>",
+                    "subtitle": ""
+                },
+                "type": "overview",
+                "date": ""
+            }
+        ],
+        "map_type": "osm:standard",
+        "language": "en"
+    }
+}

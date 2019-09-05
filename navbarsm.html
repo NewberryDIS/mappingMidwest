@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+<style>
+    .navchunk {
+        border: 2px solid transparent;
+        position: relative;
+        border-radius: 8px;
+        width: 223px;
+        padding-top: 4px;
+        padding-left: 4px;
+        font-family: 'Lato', sans-serif;
+        display: flex;
+    }
+    .navchunk:hover {
+        -webkit-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
+        border: 2px solid white;
+        background: rgba(0,0,0,0.65);
+    }
+    .navchunk:hover a {
+        color: white;
+    }
+    .navchunk:hover .logo {
+        background: url('logow.png');
+    }
+    .navchunk a {
+        font-weight: 900;
+        color: transparent;
+    }
+    .logo {
+        flex: 1;
+        margin: 4px 0 0 10px;
+        background: url('logob.png');
+        height: 40px;
+        width: 40px;
+    }
+    .navbar {
+        width: 75%;
+        margin: 5px auto 0 auto;
+        height: 60px;
+        line-height: 40px;
+    }
+    .navleft {
+        position: relative;
+    }
+    .digihome {
+        flex: 3;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 60px;
+        right: 0;
+        height: 30%;
+        margin: auto;
+        vertical-align: middle;
+        height: 40px;
+        line-height: 40px;
+    }
+</style>
+</head>
+<body>
+    <header>
+        <div class="navbar" >
+            <div class="navchunk navleft" >
+                <a href="index.html"  >
+                    <img class="logo" alt="Newberry Logo" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
+                    <span class="digihome" >
+                        &gt; Return Home
+                    </span>
+                </a>
+            </div>
+        </div>
+    </header>
+</body>
+</html>

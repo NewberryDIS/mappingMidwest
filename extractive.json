@@ -1,0 +1,292 @@
+{
+    "storymap": {
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "Extractive Industry",
+                    "subtitle": "",
+                    "text": "The minerals of the Midwest formed under ancient seas and have been mined for use by humans for centuries. Trace the natural resources from their point of origin and extraction, across transportation networks to sites of manufacturing and consumption. At each stop, consider how networks of extractive industry were shaped by government policy, corporate choices, workers' labor, and consumer demand."
+                },
+                "type": "overview",
+                "location": {
+                    "zoom": ""
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Indigenous Copper Mines",
+                    "subtitle": "<i>Report on the Geology and Topography of a Portion of the Lake Superior Land District in the State of Michigan<\/i>, 1854 |  <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=738977\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "[Placeholder image]\r\nNineteenth-century mining operations on the Upper Peninsula revealed evidence of Indigenous copper mining operations, marked in this cross-section as \"Ancient Workings.\"\r\n"
+                },
+                "type": "",
+                "location": {
+                    "lat": "46.7396868",
+                    "line": "true",
+                    "lon": "-89.1878518",
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/g_901_31_plt_11.jpg",
+                    "credit": "G 901 .31",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=738977"
+                }
+            },
+            {
+                "date": "1829",
+                "text": {
+                    "headline": "Lead Mining on the Upper Mississippi",
+                    "subtitle": "<i>Map of the United States\u2019 Lead Mines on the Upper Mississippi River<\/i>, 1829 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=182393\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "In addition to marking potential and active lead mining operations along the upper Mississippi, this document outlines how individuals could lease land from the United States to mine and smelt lead, as well as describing appropriate associated farming and logging activities. The map was produced immediately after the 1829 Treaty of Prairie du Chien in which the Anishinaabek and Ho-Chunk (Winnebago) ceded portions of their land. The map references the treaty and includes notes indicating the continued presence of Ho-Chunk (Winnebago) villages in the area."
+                },
+                "type": "",
+                "location": {
+                    "lat": "42.3508696",
+                    "line": "true",
+                    "lon": "-90.4281473",
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/graff_645_01_o2.jpg",
+                    "credit": "VAULT Graff 645",
+                    "caption": "https:\/\/i-share.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=182393"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Copper Mining on the Keweenaw Peninsula",
+                    "subtitle": "<i>Map of that Part of the Mineral Lands Adjacent to Lake Superior<\/i>, 1842 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=917092\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Land acquired by the United States government from Indigenous tribes was promptly mapped to identify plots of land that could be leased for mining. This map was included in a House of Representatives document from 1845."
+                },
+                "type": "",
+                "location": {
+                    "lat": 47.2502026,
+                    "line": "true",
+                    "lon": -88.3334456,
+                    "zoom": "9"
+                },
+                "media": {
+                    "url": ".\/images\/map6f_g4112_n6_1845_t3_1_o2.jpg",
+                    "credit": "map6F G4112.N6 1845 T3",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=917092 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Copper Mining on the Keweenaw Peninsula",
+                    "subtitle": "<i>Report on the Geology and Topography of a Portion of the Lake Superior<\/i>, 1851 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=738977\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Nineteenth-century copper works on the Keweenaw Peninsula relied heavily on immigrant laborers to harvest the native copper from shafts in the ground."
+                },
+                "type": "",
+                "location": {
+                    "lat": "47.221",
+                    "line": "true",
+                    "lon": "-88.19",
+                    "zoom": "9"
+                },
+                "media": {
+                    "url": ".\/images\/g_901_31_plt_10_o2.jpg",
+                    "credit": "G 901 .31",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=738977"
+                }
+            },
+            {
+                "date": "1853",
+                "text": {
+                    "headline": "Coal Lands in Webster County, Iowa",
+                    "subtitle": "Illinois Central Railroad Company, 1853 | <a href=\"https:\/\/mms.newberry.org\/xml\/xml_files\/ICRR.xml#series18\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Railroad companies like the Illinois Central also used maps to identify which parts of the land they purchased contained valuable natural resources like coal. This map identifies workable coal veins in red and indicates that the yellow plots along the Des Moines River have potential for coal mining and \"should not be sold without mining reservation.\""
+                },
+                "type": "",
+                "location": {
+                    "lat": "42.4270386",
+                    "line": "true",
+                    "lon": "-94.3276642",
+                    "zoom": "10"
+                },
+                "media": {
+                    "url": ".\/images\/ic_map_6f_8b_01_o2.jpg",
+                    "credit": "IC Map 6F 8b",
+                    "caption": "https:\/\/mms.newberry.org\/xml\/xml_files\/ICRR.xml#series18"
+                }
+            },
+            {
+                "date": "1874",
+                "text": {
+                    "headline": "Coal Fields Near Davenport, Iowa",
+                    "subtitle": "Citizens\u2019 Association of Davenport, 1874 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?BBID=154287&v1=1&DB=local\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "The area around Davenport, Iowa contained coal that could be loaded onto adjacent rail lines and transported to Chicago."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.5236437,
+                    "line": "true",
+                    "lon": -90.5776367,
+                    "zoom": "10"
+                },
+                "media": {
+                    "url": ".\/images\/graff_1010_map_04_o2.jpg",
+                    "credit": "Graff 1010",
+                    "caption": "https:\/\/i-share.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?BBID=154287&v1=1&DB=local"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Coal drop at Shawneetown, Illinois",
+                    "subtitle": "<i>Coal Drop at Shawneetown<\/i> | <a href=\"https:\/\/mms.newberry.org\/xml\/xml_files\/CBQ_Main.xml\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "The architecture of a coal drop reveals a system designed to efficiently load and unload railcars with coal at stops along Midwestern railroads.\r\n"
+                },
+                "type": "",
+                "location": {
+                    "lat": 37.7093082,
+                    "line": "true",
+                    "lon": -88.1756922,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/ic_map_6f_61a_smaller_01_o2.jpg",
+                    "credit": "IC Map 6F 61a",
+                    "caption": "https:\/\/i-share.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?BBID=154287&v1=1&DB=local"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Loading Coal in Fiatt, Illinois",
+                    "subtitle": "Chicago, Burlington & Quincy Railroad Company Records, 1948 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=887766\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "A Chicago, Burlington, & Quincy railcar loads up with coal in Fiatt, Illinois en route to Chicago."
+                },
+                "type": "",
+                "location": {
+                    "lat": 40.5603174,
+                    "line": "true",
+                    "lon": -90.1798433,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/cbqgr_photo_602_o2.jpg",
+                    "credit": "CBQGR602",
+                    "caption": "https:\/\/i-share.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=887766"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Coal Arriving in Chicago",
+                    "subtitle": "Chicago, Burlington & Quincy Railroad Company Records, 1948 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=887766\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "When the coal reached its destination in Chicago, it was kept in a coal yard for use by the local urban population or, more likely, to be used to manufacture steel."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.8781136,
+                    "line": "true",
+                    "lon": -87.6297982,
+                    "zoom": "9"
+                },
+                "media": {
+                    "url": ".\/images\/cbqgr_photo_2586_o2.jpg",
+                    "credit": "CBQGR2586",
+                    "caption": "https:\/\/i-share.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=887766"
+                }
+            },
+            {
+                "date": "1938",
+                "text": {
+                    "headline": "Steel Factories in Indiana",
+                    "subtitle": "Indiana Harbor, East Chicago, Indiana",
+                    "text": "Chicago became a major steel producer in late nineteenth century, as iron ore mined in the Great Lakes Region could be transported across the lakes and coal shipped in from the hinterlands via railroads.  The steel mills created a substantial number of jobs in the region. Many of the mills in and near Chicago consolidated in the early twentieth century to become a major corporation: U.S. Steel. As the owners of steel mills gained significant wealth, laborers in steel mills consistently organized for better working conditions starting in the late nineteenth century."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.6405912,
+                    "line": "true",
+                    "lon": -87.4453189,
+                    "zoom": "12"
+                },
+                "media": {
+                    "url": ".\/images\/map6f_g3311_p5a_1945_no_755_detail_01_o2.jpg",
+                    "credit": "map6F G3311.P5A 19--.45, no. 755",
+                    "caption": "N\/A"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "John Deere Factory in Moline, Illinois",
+                    "subtitle": "<i>Map of Moline, Rock Island Co. Illnois<\/i>, 1857 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=165958\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Plows provided one way to use the steel produced in Chicago. Manufacturers like John Deere in Moline, Illinois (depicted in the upper right-hand corner) made the farm implements purchased by farmers to supply eastern markets with food."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.4699281,
+                    "line": "true",
+                    "lon": -90.5209909,
+                    "zoom": "10"
+                },
+                "media": {
+                    "url": ".\/images\/graff_1130_o2.jpg",
+                    "credit": "Graff 1130",
+                    "caption": "https:\/\/i-share.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=165958"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Lumber Milling in Stillwater, Minnesota",
+                    "subtitle": "<i>An Illustrated Historical Atlas of the State of Minnesota<\/i>, 1874 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=200548\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "Demand for lumber to build homes fueled a logging industry across the Great Lakes region, where lumber could be floated downriver to lumber mills. Extensive logging produced a cut-over region that attracted homesteaders but often resulted in significant soil depletion. The conservation of cut-over regions and the regrowth of forests set the stage for a different economy in the north woods: <span class=\"link_to_slide\" onClick=\"goToSlide('waterways',12)\">tourism<\/span>."
+                },
+                "type": "",
+                "location": {
+                    "lat": 45.056004,
+                    "line": "true",
+                    "lon": -92.8088443,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/ayer_135_a55_1874_pg_53_o2.jpg",
+                    "credit": "Ayer 135 .A55 1874",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=200548"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "Ready-Made Homes",
+                    "subtitle": "<i>Choice Farming Lands in Iowa and Nebraska<\/i>, 1871 | <a href=\"https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=19479\" target=\"_blank\">Catalog Link <span style=\"font-size:14px;\" class=\"fas fa-external-link-square-alt\" \/><\/a>",
+                    "text": "The lumber from Midwest forests was used to build homes in both rural and urban areas. Ready-made homes like these could be purchased by mail, and were advertised along with lands for <span class=\"link_to_slide\" onClick=\"goToSlide('agriculture',7)\">homesteading<\/span>."
+                },
+                "type": "",
+                "location": {
+                    "lat": 41.8781136,
+                    "line": "true",
+                    "lon": -87.6297982,
+                    "zoom": "8"
+                },
+                "media": {
+                    "url": ".\/images\/graff_5369_home_02_o2.jpg",
+                    "credit": "Graff 5369",
+                    "caption": "https:\/\/webvoyage.carli.illinois.edu\/nby\/cgi-bin\/Pwebrecon.cgi?DB=local&v1=1&BBRecID=19479"
+                }
+            },
+            {
+                "text": {
+                    "headline": "End of map",
+                    "text": "Go to next map:<br \/><a href=\"#\" onclick=\"$('#layers button[name=agriculture]').trigger('click');\" >Agriculture<\/a>",
+                    "subtitle": ""
+                },
+                "type": "overview",
+                "date": "",
+                "location": {
+                    "zoom": ""
+                }
+            }
+        ],
+        "map_type": "osm:standard",
+        "language": "en"
+    }
+}
