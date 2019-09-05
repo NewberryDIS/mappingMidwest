@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mappingMidwest/static/css/main.0a18921d.chunk.css",
+    "main.js": "/mappingMidwest/static/js/main.695dd73a.chunk.js",
+    "main.js.map": "/mappingMidwest/static/js/main.695dd73a.chunk.js.map",
+    "runtime~main.js": "/mappingMidwest/static/js/runtime~main.4c81fe58.js",
+    "runtime~main.js.map": "/mappingMidwest/static/js/runtime~main.4c81fe58.js.map",
+    "static/js/2.56309f74.chunk.js": "/mappingMidwest/static/js/2.56309f74.chunk.js",
+    "static/js/2.56309f74.chunk.js.map": "/mappingMidwest/static/js/2.56309f74.chunk.js.map",
+    "index.html": "/mappingMidwest/index.html",
+    "precache-manifest.e099aeb3fce94b335aff039384f1ad20.js": "/mappingMidwest/precache-manifest.e099aeb3fce94b335aff039384f1ad20.js",
+    "service-worker.js": "/mappingMidwest/service-worker.js",
+    "static/css/main.0a18921d.chunk.css.map": "/mappingMidwest/static/css/main.0a18921d.chunk.css.map",
+    "static/media/agri-sm.jpg": "/mappingMidwest/static/media/agri-sm.997275b0.jpg",
+    "static/media/dialect-sm.jpg": "/mappingMidwest/static/media/dialect-sm.0c2da367.jpg",
+    "static/media/ei-sm.jpg": "/mappingMidwest/static/media/ei-sm.c2ef7a2b.jpg",
+    "static/media/infra-sm.jpg": "/mappingMidwest/static/media/infra-sm.e189f814.jpg",
+    "static/media/waterways-sm.jpg": "/mappingMidwest/static/media/waterways-sm.15a76258.jpg",
+    "static/media/index.css": "/mappingMidwest/static/media/wp.c6e43230.png",
+    "static/media/wparte-sm.jpg": "/mappingMidwest/static/media/wparte-sm.9df88473.jpg"
+  }
+}
