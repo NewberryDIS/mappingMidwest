@@ -3,7 +3,6 @@ import styled from "@emotion/styled";
 import logo from './images/logo.png';
 /** @jsx jsx */
 import { css, jsx } from '@emotion/core'
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import './index.css';
 
 const Bar = (props) => (
@@ -88,7 +87,6 @@ export default class Navbar extends React.Component {
     }
     render(){
         return(
-            <Router>
                 <header>
                     <div className="navbar" css={css`
                         width: 75%;
@@ -120,7 +118,7 @@ export default class Navbar extends React.Component {
                     `}>
                         <Navchunk className="navleft" css={css`
                         `}>
-                            <Link to="/" exact>
+                            <a href="/" exact>
                                 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
                                 <span css={css`
                                     height: 100%;
@@ -128,15 +126,15 @@ export default class Navbar extends React.Component {
                                 `}>
                                     &gt; Digital Newberry
                                 </span>
-                            </Link>
+                            </a>
                         </Navchunk>
                         <Navchunk className="navmid" css={css`
                             text-align: center;
                             font-size: 2rem;
                             font-family: 'Libre Baskerville', serif;
                         `}>
-                             {/* <Link to="/" exact>Mapping the Midwest</Link> */}
-                            {/* {this.props.match.path === '/' ? <Link to="/" exact>Mapping the Midwest</Link> : '' } */}
+                             {/* <a href="/" exact>Mapping the Midwest</a> */}
+                            {/* {this.props.match.path === '/' ? <a href="/" exact>Mapping the Midwest</a> : '' } */}
                         </Navchunk>
                         <Navchunk className="navright" css={css`
                             display: flex;
@@ -152,7 +150,6 @@ export default class Navbar extends React.Component {
                         </Navchunk>
                     </div>
                 </header>
-            </Router>
         )
     }
 }

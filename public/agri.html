@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Agriculture</title>
+    <link rel="stylesheet" href="https://cdn.knightlab.com/libs/storymapjs/latest/css/storymap.css">
+  <!-- <link rel="stylesheet" href="./iotmw.css"> -->
+	<link rel="stylesheet" href="./custom.css">
+	<link rel="stylesheet" href="./font.default.css">
+	<script type="text/javascript" src="//cdn.knightlab.com/libs/storymapjs/latest/js/storymap-min.js"></script>
+	<script type="text/javascript" src="//cdn.knightlab.com/libs/storymapjs/latest/js/json2.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="templated.css">
+    <script src="data.js"></script>
+    <style>
+            header {
+                position: fixed;
+                top: 10px;
+                left: 10%;
+            }
+            .navchunk {
+                border: 2px solid transparent;
+                position: relative;
+                border-radius: 8px;
+                width: 200px;
+                padding-top: 4px;
+                padding-left: 4px;
+                font-family: 'Lato', sans-serif;
+                display: flex;
+            }
+            .navchunk:hover {
+                -webkit-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
+                -moz-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
+                box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
+                border: 2px solid white;
+                background: rgba(0,0,0,0.65);
+            }
+            .navchunk:hover a {
+                color: white;
+            }
+            .navchunk:hover .logo {
+                background: url('logow.png');
+            }
+            .navchunk a {
+                font-weight: 900;
+                color: transparent;
+            }
+            .logo {
+                flex: 1;
+                margin: 4px 0 0 10px;
+                background: url('logob.png');
+                height: 40px;
+                width: 40px;
+            }
+            .navbar {
+                width: 75%;
+                margin: 5px auto 0 auto;
+                height: 60px;
+                line-height: 40px;
+            }
+            .navleft {
+                position: relative;
+            }
+            .digihome {
+                flex: 3;
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                left: 60px;
+                right: 0;
+                height: 30%;
+                margin: auto;
+                vertical-align: middle;
+                height: 40px;
+                line-height: 40px;
+            }
+        </style>
+</head>
+<body>
+    <header>
+        <div class="navbar" >
+            <div class="navchunk navleft" >
+                <a href="index.html"  >
+                    <img class="logo" alt="Newberry Logo" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
+                    <span class="digihome" >
+                        &gt; Return Home
+                    </span>
+                </a>
+            </div>
+        </div>
+    </header>
+	<div id="mapdiv" style="width: 100%; height: calc(100vh - 20px); top: 5px; margin: auto;"></div>
+	
+	<script>
+
+        var storymap_data = 'agriculture.json';
+
+        // certain settings must be passed within a separate options object
+        var storymap_options = {};
+
+        var storymap = new VCO.StoryMap('mapdiv', storymap_data, storymap_options);
+        window.onresize = function(event) {
+            storymap.updateDisplay(); // this isn't automatic
+        }
+
+        function menuClick(x) {
+            x.classList.toggle("change");
+            $('#menuList').toggleClass('hide')
+        }
+        for (n in contentNav['mm']){
+            console.log(n);
+            var arr =  contentNav['mm'][n];
+            $('#menuList').append('<li' + ( window.location.pathname.indexOf(arr[0]) > -1  ? ' class="active"' : '') + '><a href="' + arr[0] + '.html">' + arr[1] + '</a></li>'); 
+        }
+</script>
+  </body>
+</html>
+

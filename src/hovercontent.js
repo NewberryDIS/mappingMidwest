@@ -1,4 +1,3 @@
-import React from "react"
 import styled from "@emotion/styled"
 /** @jsx jsx */
 import { css, jsx } from '@emotion/core'
@@ -28,11 +27,11 @@ export default function (props) {
         -webkit-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
         -moz-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
         box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
-
         border: 2px solid white;
         border-radius: 8px;
         background-color: rgba(0,0,0,0.65);
-        height: 300px;
+        min-height: 300px;
+        max-height: 400px;
         width: 200px;
         margin: auto;
         overflow: hidden;
@@ -69,7 +68,7 @@ export default function (props) {
     return (
         <Hoverdiv>
             <Cardimg>
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" 
+                <img alt="Sample Image for Story Map" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" 
                     css={css`
                         height: 100%;
                         width: 100%;

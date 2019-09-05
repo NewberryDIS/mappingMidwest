@@ -4,7 +4,6 @@ import logob from './images/logob.png';
 import logow from './images/logow.png';
 /** @jsx jsx */
 import { css, jsx } from '@emotion/core'
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import './index.css';
 
 const Navchunk = styled.div`
@@ -63,7 +62,6 @@ export default class Navbar extends React.Component {
     }
     render(){
         return(
-            <Router>
                 <header>
                     <div className="navbar" css={css`
                         width: 75%;
@@ -74,8 +72,8 @@ export default class Navbar extends React.Component {
                         <Navchunk className="navleft" css={css`
                         position: relative;
                         `}>
-                            <Link to="/" exact >
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
+                            <a href="index.html"  >
+                                <img alt="Newberry Logo" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
                                 <span css={css`
                                 flex: 3;
                                 position: absolute;
@@ -92,12 +90,11 @@ export default class Navbar extends React.Component {
                                 `}>
                                 &gt; Digital Newberry
                             </span>
-                            </Link>
+                            </a>
                         </Navchunk>
                         
                     </div>
                 </header>
-            </Router>
         )
     }
 }

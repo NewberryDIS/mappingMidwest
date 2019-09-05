@@ -1,6 +1,5 @@
 import React from 'react';
 // import Corecontent from './corecontent'
-import Hovercontent from './hovercontent'
 import Menu from './menu'
 import styled from "@emotion/styled";
 
@@ -20,6 +19,9 @@ const Corecontent  = styled.div`
     padding: 20px;
     margin: 10px
     display: inline-block;
+    & h2 {
+        font-family: 'Libre Baskerville', serif;
+    }
 `
 const Main = styled.div`
     display: flex;

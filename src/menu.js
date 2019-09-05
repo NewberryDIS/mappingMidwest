@@ -1,7 +1,6 @@
 import React from "react"
 /** @jsx jsx */
 import { css, jsx } from '@emotion/core'
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import Hovercontent from './hovercontent'
 
 export default class Menu extends React.Component {
@@ -67,7 +66,7 @@ export default class Menu extends React.Component {
                         }
                     `}
                         >
-                        <Link to={`/${item[0]}`}>{item[1][0]}</Link>
+                        <a href={`/${item[0]}.html`}>{item[1][0]}</a>
                     </li>
                 )}
 
